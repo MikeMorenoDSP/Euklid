@@ -3,6 +3,7 @@ Euklid is a MIDI effect that generates Euclidean Rhythms in real time.
 Version: 1.0
 Author: Miguel Moreno
 Facebook: https://fb.com/MikeMorenoAudio/
+YouTube: https://www.youtube.com/user/Lehjiot/
 WordPress: https://mikemorenoaudio.wordpress.com/
 GitHub: https://github.com/MikeMorenoAudio
 PatchStorage: https://patchstorage.com/author/mianmogra/
